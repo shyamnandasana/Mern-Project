@@ -23,5 +23,5 @@ app.use('/api/products', productRoutes);
 
 // Start Server
 app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
+  console.log(`Server is running on port 3000`);
 });
